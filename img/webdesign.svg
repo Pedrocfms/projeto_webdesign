@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="webdesign.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 290 70"
+   height="70mm"
+   width="290mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2919"
+       inkscape:collect="always">
+      <stop
+         id="stop2915"
+         offset="0"
+         style="stop-color:#ecb731;stop-opacity:1" />
+      <stop
+         id="stop2917"
+         offset="1"
+         style="stop-color:#cb1f1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient913"
+       osb:paint="gradient">
+      <stop
+         id="stop924"
+         offset="0"
+         style="stop-color:#ecb731;stop-opacity:1;" />
+      <stop
+         id="stop926"
+         offset="1"
+         style="stop-color:#cb1f1c;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="gradient"
+       inkscape:collect="always"
+       id="linearGradient913-8">
+      <stop
+         style="stop-color:#cb1f1c;stop-opacity:0.81853276;"
+         offset="0"
+         id="stop917" />
+      <stop
+         style="stop-color:#ecb731;stop-opacity:0;"
+         offset="1"
+         id="stop919" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="433.38397"
+       x2="190.46054"
+       y1="433.6181"
+       x1="333.52878"
+       id="linearGradient2921"
+       xlink:href="#linearGradient2919"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-27.342888,-75.779875)"
+       y2="433.38397"
+       x2="190.46054"
+       y1="433.6181"
+       x1="333.52878"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2926"
+       xlink:href="#linearGradient2919"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="702"
+     inkscape:window-width="1366"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="202.09111"
+     inkscape:cx="619.33436"
+     inkscape:zoom="0.66723404"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       d="M 52.165437,7.6289847 39.174498,46.213705 33.246178,20.516053 h -3.175 v 0.03204 h -2.99775 L 21.120303,46.196145 14.250955,29.668465 H 6.8343536 l 9.9947384,26.99525 h 7.491016 l 5.818766,-23.91326 5.811015,23.88122 h 7.491016 L 59.582038,7.6289847 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient2926);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       id="path853" />
+    <path
+       id="path855"
+       d="M 52.198128,7.5287187 39.325081,45.761145 33.479378,20.415437 H 26.967659 L 21.084846,45.763095 14.338753,29.536535 H 6.6434395 L 16.73719,56.796295 h 7.6875 l 5.775391,-23.73633 5.773437,23.73633 h 7.691406 L 59.891487,7.5287187 Z m 0.189453,0.263672 h 7.138672 L 43.473518,56.530675 H 36.18055 l -5.853516,-24.0586 h -0.25586 l -5.855468,24.0586 H 16.920784 L 7.0242995,29.800205 h 7.1386715 l 6.992188,16.82617 6.023437,-25.945312 h 6.089844 l 6.009766,26.050782 0.148437,-0.44336 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000" />
+    <text
+       id="text893"
+       y="57.12587"
+       x="54.542107"
+       style="font-size:25.4px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#3d2f35;fill-opacity:1;stroke-width:0.264583"
+         y="57.12587"
+         x="54.542107"
+         id="tspan891"
+         sodipodi:role="line"><tspan
+           id="tspan2924"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'">web</tspan><tspan
+           id="tspan897"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light'">design <tspan
+   id="tspan2928"
+   style="font-size:5.64444px">transformamos suas ideias em realidade</tspan></tspan></tspan></text>
+  </g>
+</svg>

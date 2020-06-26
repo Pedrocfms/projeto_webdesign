@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="test.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg2936"
+   version="1.1"
+   viewBox="0 0 400 80"
+   height="80mm"
+   width="400mm">
+  <defs
+     id="defs2930" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="702"
+     inkscape:window-width="1366"
+     width="400mm"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="257.756"
+     inkscape:cx="798.9961"
+     inkscape:zoom="0.47180572"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata2933">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="4.7609868"
+       x="7.8730831"
+       height="56.462669"
+       width="187.40541"
+       id="rect3499"
+       style="fill:none;fill-opacity:0.94902;stroke:#ffffff;stroke-width:0.463022;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       id="text3503"
+       y="28.650112"
+       x="25.356844"
+       style="font-size:4.9389px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583;fill:#ffffff;"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583;fill:#ffffff;"
+         y="28.650112"
+         x="25.356844"
+         id="tspan3501"
+         sodipodi:role="line">&quot;contratei os serviços e me surpreendi, indico os serviços da empresa</tspan><tspan
+         id="tspan3505"
+         style="stroke-width:0.264583;fill:#ffffff;"
+         y="34.823738"
+         x="25.356844"
+         sodipodi:role="line">a todos que conheço.&quot;</tspan><tspan
+         id="tspan3507"
+         style="font-size:4.23333px;stroke-width:0.264583;fill:#ffffff;"
+         y="40.99736"
+         x="25.356844"
+         sodipodi:role="line">Fulano de tal</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#ffffff;stroke-width:0.463022;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect3509"
+       width="187.40541"
+       height="56.462669"
+       x="204.72151"
+       y="4.7609868" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.264583;fill:#ffffff;"
+       x="222.20529"
+       y="28.650112"
+       id="text3517"><tspan
+         sodipodi:role="line"
+         id="tspan3511"
+         x="222.20529"
+         y="28.650112"
+         style="stroke-width:0.264583;fill:#ffffff;">&quot;contratei os serviços e me surpreendi, indico os serviços da empresa</tspan><tspan
+         sodipodi:role="line"
+         x="222.20529"
+         y="34.823738"
+         style="stroke-width:0.264583;fill:#ffffff;"
+         id="tspan3513">a todos que conheço.&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="222.20529"
+         y="40.99736"
+         style="font-size:4.23333px;stroke-width:0.264583;fill:#ffffff;"
+         id="tspan3515">Fulano de tal</tspan></text>
+    <circle
+       r="3.4726212"
+       cy="74.548874"
+       cx="182.73376"
+       id="path3519"
+       style="fill:#cb1f1c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.178234" />
+    <circle
+       style="opacity:0.341936;fill:#cb1f1c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.178515;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle3521"
+       cx="193.07124"
+       cy="74.548874"
+       r="3.4726212" />
+    <circle
+       r="3.4726212"
+       cy="74.548874"
+       cx="203.40872"
+       id="circle3523"
+       style="opacity:0.341936;fill:#cb1f1c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.178515;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       style="opacity:0.341936;fill:#cb1f1c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.178515;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle3525"
+       cx="213.7462"
+       cy="74.548874"
+       r="3.4726212" />
+  </g>
+</svg>
